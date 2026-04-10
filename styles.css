@@ -3,6 +3,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 40px auto;
   max-width: 650px;
+  padding: 010px;
 }
 h1 {
   color: rgb(0, 0, 0);
@@ -10,3 +11,4 @@ h1 {
 p {
   color: rgb(0, 0, 0);
 }
+
