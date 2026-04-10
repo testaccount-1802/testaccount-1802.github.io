@@ -1,11 +1,8 @@
 body {
   background-color: rgb(211, 255, 211);
   font-family: Arial, sans-serif;
-  margin: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
+  margin: 40px auto;
+  max-width: 650px;
 }
 h1 {
   color: rgb(0, 0, 0);
