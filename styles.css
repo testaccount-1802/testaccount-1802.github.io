@@ -36,4 +36,5 @@ p {
     background-color: rgb(81, 183, 81);
     border: 2px solid #333;
     padding: 20px;
+    border-radius: 15px;
 }
