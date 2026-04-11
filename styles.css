@@ -45,3 +45,7 @@ p {
     margin-right: 20px;
     margin-left: 20px;
 }
+
+.footer {
+    clear: left;
+}
